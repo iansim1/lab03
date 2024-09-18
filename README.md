@@ -53,11 +53,6 @@ For example, if you call the function with "Good Morning", the function should r
 When designing your function, be sure to follow all steps of the HtDF recipe.
 
 
-```python
-# Put your solution to Problem 1 here
-
-```
-
 ### Problem 2:
 
 We are working with an API: https://pokeapi.co/. This API allows us to fetch different types (e.g., name, type, height, weight, base_stat) of information on Pokemon.
